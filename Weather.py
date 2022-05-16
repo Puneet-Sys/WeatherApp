@@ -49,7 +49,7 @@ lable_mm.place(x=120, y=320)
 
 def getTemp():
     city_name = entry.get()
-    appKey = "79b704eea690d1deb88d22e0192321d6"
+    appKey = "your api key"
     url = "https://api.openweathermap.org/data/2.5/weather?q=" + city_name + "&appid=" + appKey + "&units=metric"
 
     weatherData = requests.get(url).json()
