@@ -40,7 +40,7 @@ https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 
 #### To Install :
 
-1. Open python console in IDE.
+1. Open Terminal in IDE.
 2. Write pip3 install {Library name}
 
 ##### Example : pip3 install requests
