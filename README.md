@@ -44,6 +44,9 @@ https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 2. Write pip3 install {Library name}
 
 ##### Example : pip3 install requests
+
+##### Note : To convert python script to .exe use pyinstaller library. For more <a href="https://www.geeksforgeeks.org/convert-python-script-to-exe-file/" target="_blank" rel="noreferrer"> visit. </a>
+
     
 ## IDE USED :
 
